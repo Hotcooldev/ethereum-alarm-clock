@@ -24,6 +24,7 @@ Events
 ------
 
 
+
 .. method:: TransactionRequest.Cancelled(uint rewardPayment, uint measuredGasConsumption)
 
 When a request is cancelled, the ``Cancelled`` event will be logged.  The

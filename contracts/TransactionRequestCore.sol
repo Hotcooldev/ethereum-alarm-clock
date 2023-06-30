@@ -43,6 +43,7 @@ contract TransactionRequestCore is TransactionRequestInterface {
         initialized = true;
     }
 
+
     /*
      *  Allow receiving ether.  This is needed if there is a large increase in
      *  network gas prices.

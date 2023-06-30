@@ -26,3 +26,4 @@ contract TimestampScheduler is BaseScheduler {
         feeRecipient = _feeRecipient;
     }
 }
+

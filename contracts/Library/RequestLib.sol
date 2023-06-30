@@ -34,6 +34,7 @@ library RequestLib {
         InsufficientGas,    //5
         TooLowGasPrice    //6
     }
+    
 
     event Aborted(uint8 reason);
     event Cancelled(uint rewardPayment, uint measuredGasConsumption);

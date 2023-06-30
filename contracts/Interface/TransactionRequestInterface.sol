@@ -21,3 +21,4 @@ contract TransactionRequestInterface {
     function sendOwnerEther() public returns (bool);
     function sendOwnerEther(address recipient) public returns (bool);
 }
+

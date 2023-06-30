@@ -64,3 +64,4 @@ can do this by running the command `rm -rf build/`.
 
 ## Thanks and support
 [<img src="https://s3.amazonaws.com/chronologic.network/ChronoLogic_logo.svg" width="128px">](https://github.com/chronologic)
+

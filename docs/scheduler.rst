@@ -27,12 +27,14 @@ configured with.
 Interface
 ---------
 
+
 .. literalinclude:: ../contracts/Interface/SchedulerInterface.sol
     :language: solidity
 
 
 Defaults
 --------
+
 
 The following defaults are used when creating a new :class:`TransactionRequest`
 contract via either :class:`Scheduler` contract.

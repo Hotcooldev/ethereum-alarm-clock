@@ -31,6 +31,7 @@ Events
 ------
 
 
+
 .. method:: RequestFactory.RequestCreated(address request)
 
 The ``RequestCreated`` event will be logged for each newly created

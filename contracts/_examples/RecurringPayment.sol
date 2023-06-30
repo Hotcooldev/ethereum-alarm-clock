@@ -30,6 +30,7 @@ contract RecurringPayment {
         schedule();
     }
 
+
     function ()
         public payable 
     {

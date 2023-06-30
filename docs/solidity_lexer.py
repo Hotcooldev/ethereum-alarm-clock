@@ -85,3 +85,4 @@ class SolidityLexer(RegexLexer):
             (r"'(\\\\|\\'|[^'])*'", String.Single),
         ]
     }
+

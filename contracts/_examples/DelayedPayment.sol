@@ -35,6 +35,7 @@ contract DelayedPayment {
             twentyGwei
         );
 
+
         payment = scheduler.schedule.value(endowment)( // 0.1 ether is to pay for gas, bounty and fee
             this,                   // send to self
             "",                     // and trigger fallback function

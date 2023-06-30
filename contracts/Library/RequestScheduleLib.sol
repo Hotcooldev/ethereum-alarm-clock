@@ -37,6 +37,7 @@ library RequestScheduleLib {
         uint claimWindowSize;           /// The length in temporal units before the freezeperiod in which an address can claim the execution.
     }
 
+
     /**
      * @dev Get the `now` represented in the temporal units assigned to this request.
      * @param self The ExecutionWindow object.

@@ -30,6 +30,7 @@ contract BaseScheduler is SchedulerInterface {
     /// Event that bubbles up the address of new requests made with this scheduler.
     event NewRequest(address request);
 
+
     /**
      * @dev Schedules a new TransactionRequest using the 'full' parameters.
      * @param _toAddress The address destination of the transaction.

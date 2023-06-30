@@ -13,3 +13,4 @@ const web3 = new Web3(provider)
 
 module.exports = nconf
 module.exports.web3 = web3
+

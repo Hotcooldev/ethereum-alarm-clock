@@ -40,6 +40,7 @@ incentive based protocol that ensures pretty good guarantees that someone
 will execute all scheduled transactions.
 
 
+
 How transactions are executed
 -----------------------------
 

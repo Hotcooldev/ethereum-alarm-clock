@@ -26,6 +26,7 @@ Changelog
 - Revamped the documentation.
 
 
+
 0.8.0 (unreleased)
 ------------------
 

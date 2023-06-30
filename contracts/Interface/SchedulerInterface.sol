@@ -10,3 +10,4 @@ contract SchedulerInterface {
     function computeEndowment(uint _bounty, uint _fee, uint _callGas, uint _callValue, uint _gasPrice)
         public view returns (uint);
 }
+

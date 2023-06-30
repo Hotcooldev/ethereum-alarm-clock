@@ -7,3 +7,4 @@ module.exports = (deployer) => {
       console.log('DEPLOYED MIGRATIONS')
     })
 }
+

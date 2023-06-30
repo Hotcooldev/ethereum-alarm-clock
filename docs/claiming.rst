@@ -30,6 +30,7 @@ of successfully executing any given transaction request, but since 50% of their
 attempts end up costing them money, their overall profits are being reduced by
 each failed attempt.
 
+
 In this model, their expected payout is 75 wei for every two transaction
 requests they try to execute.
 

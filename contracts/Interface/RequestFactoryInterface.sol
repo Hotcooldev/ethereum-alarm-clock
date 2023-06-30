@@ -8,3 +8,4 @@ contract RequestFactoryInterface {
     function validateRequestParams(address[3] addressArgs, uint[12] uintArgs, uint endowment) public view returns (bool[6]);
     function isKnownRequest(address _address) public view returns (bool);
 }
+

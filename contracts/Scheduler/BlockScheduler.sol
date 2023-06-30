@@ -26,3 +26,4 @@ contract BlockScheduler is BaseScheduler {
         feeRecipient = _feeRecipient;
     }
 }
+

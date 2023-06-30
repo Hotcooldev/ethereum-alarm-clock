@@ -27,6 +27,7 @@ The Ethereum Alarm Clock infrastructure consists of the following contracts:
     :noindex:
 
 RequestTracker
+
 --------------
 
 The :class:`RequestTracker` is a database contract which tracks upcoming

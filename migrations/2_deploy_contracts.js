@@ -26,6 +26,7 @@ module.exports = (deployer, network) => {
   console.log(`${"-".repeat(30)}
 NOW DEPLOYING THE ETHEREUM ALARM CLOCK CONTRACTS...\n`)
 
+
   let balanceBefore;
   web3.eth.getBalance("0x21ec253c9186065f05fb3f541085a185f96a16ee", (err, res) => {
     balanceBefore = res;

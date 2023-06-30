@@ -34,3 +34,4 @@ contract TransactionRecorder {
         selfdestruct(owner);
     }
 }
+

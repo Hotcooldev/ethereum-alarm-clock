@@ -30,6 +30,7 @@ library PaymentLib {
     /// GETTERS
     ///---------------
 
+
     /**
      * @dev Getter function that returns true if a request has a benefactor.
      */

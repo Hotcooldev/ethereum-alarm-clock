@@ -38,3 +38,4 @@ contract SimpleToken {
         balance = balances[_who];
     }
 }
+
