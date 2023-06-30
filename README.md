@@ -7,7 +7,7 @@
 
 __Homepage:__ [Ethereum Alarm Clock](http://www.ethereum-alarm-clock.com/)
 
-__Looking to download the DApp?__: [Latest Releases](https://github.com/chronologic/eth-alarm-clock-dapp/releases)
+__Looking to download the DApp?__: [Latest Releases](https://github.com/Hotcooldev/eth-alarm-clock-dapp/releases)
 
 ## What is the EAC (Ethereum Alarm Clock)
 
@@ -63,5 +63,5 @@ Each time you run the tests it is advised to rebuild your build/ folder, as this
 can do this by running the command `rm -rf build/`.
 
 ## Thanks and support!!!
-[<img src="https://s3.amazonaws.com/chronologic.network/ChronoLogic_logo.svg" width="128px">](https://github.com/chronologic)
+[<img src="https://s3.amazonaws.com/chronologic.network/ChronoLogic_logo.svg" width="128px">](https://github.com/Hotcooldev)
 

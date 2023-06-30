@@ -18,16 +18,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/chronologic/ethereum-alarm-clock.git"
+        "url": "git+https://github.com/Hotcooldev/ethereum-alarm-clock.git"
     },
     "author": "SuperSinper",
     "contributors": [
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/chronologic/ethereum-alarm-clock/issues"
+        "url": "https://github.com/Hotcooldev/ethereum-alarm-clock/issues"
     },
-    "homepage": "https://github.com/chronologic/ethereum-alarm-clock#readme",
+    "homepage": "https://github.com/Hotcooldev/ethereum-alarm-clock#readme",
     "dependencies": {
         "@optionality.io/clone-factory": "0.1.6",
         "nconf": "0.8.5",
